@@ -152,7 +152,7 @@ LLM-Guided-DRL-for-Autonomous-GUI-Testing/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Subhra0309/LLM-Guided-DRL-for-Autonomous-GUI-Testing.git
 cd LLM-Guided-DRL-for-Autonomous-GUI-Testing
 ```
 
