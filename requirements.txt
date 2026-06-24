@@ -1,0 +1,24 @@
+# ===== Core =====
+numpy
+pandas
+torch
+torchvision
+
+# ===== Selenium Automation =====
+selenium
+
+# ===== Computer Vision =====
+opencv-python
+Pillow
+
+# ===== LLM =====
+ollama
+requests
+
+# ===== Dashboard =====
+streamlit
+
+# ===== Utilities =====
+tqdm
+python-dotenv
+matplotlib
